@@ -3,46 +3,54 @@ import Head from 'next/head';
 import phonesData from '../constants/phones.json';
 
 const PhoneCard = ({ phone, rank }) => (
-  <div className="bg-white rounded-lg shadow-md p-4 mb-4">
-    <div className="flex items-start">
-      <div className="w-1/4 pr-4">
-        <img src={phone.image_url} alt={phone.title} className="w-full" />
+    <div className="bg-white rounded-lg shadow-md p-4 mb-4">
+      <div className="flex items-start">
+        <div className="w-[278px] h-[278px] flex-shrink-0 mr-4">
+          <img 
+            src={phone.image_url} 
+            alt={phone.title} 
+            className="w-full h-full object-contain"
+          />
+        </div>
+        <div className="flex-grow">
+          <div className="flex justify-between items-start">
+            <div>
+              <span className="text-gray-500 font-semibold">{rank.toString().padStart(2, '0')}</span>
+              <h2 className="text-xl font-bold">{phone.title}</h2>
+              <p className="text-sm text-gray-600">{phone.brand}</p>
+            </div>
+            <div className="text-right">
+              <div className="text-3xl font-bold text-blue-600">{phone.product_score}</div>
+              <div className="text-sm text-blue-600">Exceptional</div>
+            </div>
+          </div>
+          <div className="mt-2">
+            <span className="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">{phone.discount}</span>
+          </div>
+          <ul className="mt-2 text-sm">
+            {phone.features.slice(0, 3).map((feature, index) => (
+              <li key={index} className="mb-1">• {feature}</li>
+            ))}
+          </ul>
+        </div>
       </div>
-      <div className="w-3/4">
-        <div className="flex justify-between items-start">
-          <div>
-            <span className="text-gray-500 font-semibold">{rank.toString().padStart(2, '0')}</span>
-            <h2 className="text-xl font-bold">{phone.title}</h2>
-            <p className="text-sm text-gray-600">{phone.brand}</p>
-          </div>
-          <div className="text-right">
-            <div className="text-3xl font-bold text-blue-600">{phone.product_score}</div>
-            <div className="text-sm text-blue-600">Exceptional</div>
-          </div>
+      <div className="mt-4 flex justify-between items-center">
+        <div>
+          <span className="text-2xl font-bold">{phone.price}</span>
+          <span className="text-sm text-gray-500 line-through ml-2">{phone.original_price}</span>
+          <span className="text-sm text-red-500 ml-2">{phone.discount}</span>
         </div>
-        <div className="mt-2">
-          <span className="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">{phone.discount}</span>
-        </div>
-        <ul className="mt-2 text-sm">
-          {phone.features.map((feature, index) => (
-            <li key={index} className="mb-1">• {feature}</li>
-          ))}
-        </ul>
+        <a 
+          href={phone.amazon_link} 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors"
+        >
+          See on Amazon
+        </a>
       </div>
     </div>
-    <div className="mt-4 flex justify-between items-center">
-      <div>
-        <span className="text-2xl font-bold">{phone.price}</span>
-        <span className="text-sm text-gray-500 line-through ml-2">{phone.original_price}</span>
-        <span className="text-sm text-red-500 ml-2">{phone.discount}</span>
-      </div>
-      <button className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors">
-        View Deal
-      </button>
-    </div>
-  </div>
-);
-
+  );
 export default function TopPhones() {
     const priceRanges = Object.keys(phonesData).sort((a, b) => parseInt(a) - parseInt(b));
     const [selectedPrice, setSelectedPrice] = useState(priceRanges[0]);
