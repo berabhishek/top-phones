@@ -1,0 +1,2158 @@
+{
+    "5000": [
+        {
+            "price": "₹1,049",
+            "productName": "Samsung Guru Music 2",
+            "releaseDate": "11 Jul, 2024",
+            "specifications": [
+                "2.0″ (5.08 cm) TFT Display",
+                "800 mAh | 4W Charging"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/4571-140-1.jpg"
+        },
+        {
+            "price": "₹3,649",
+            "productName": "Nokia 235 4G 2024",
+            "releaseDate": "10 Jun, 2024",
+            "specifications": [
+                "Unisoc",
+                "2 MP Rear Camera",
+                "2.8″ (7.11 cm) TFT Display",
+                "64 MB RAM | 128 MB Storage",
+                "1450 mAh Battery",
+                "S30+ OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24527-192-1.jpg"
+        },
+        {
+            "price": "₹3,899",
+            "productName": "Yu Yutopia",
+            "releaseDate": "26 Dec, 2024",
+            "specifications": [
+                "Snapdragon 810 Octa core",
+                "21 MP Rear Camera",
+                "8 MP Front Camera",
+                "5.2″ (13.21 cm) IPS LCD Display",
+                "4 GB RAM | 32 GB Storage",
+                "3000 mAh Battery",
+                "Android v5.1.1 OS",
+                "Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/8487-270-1.jpg"
+        },
+        {
+            "price": "₹4,299",
+            "productName": "Nokia 2660 Flip",
+            "releaseDate": "30 Aug, 2024",
+            "specifications": [
+                "Unisoc Single core",
+                "0.3 MP Rear Camera",
+                "2.8″ (7.11 cm) TFT Display",
+                "48 MB RAM | 128 MB Storage",
+                "1450 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22474-241-1.jpg"
+        },
+        {
+            "price": "₹1,899",
+            "productName": "Nokia 130 Music 2023",
+            "releaseDate": "10 Aug, 2024",
+            "specifications": [
+                "2.4″ (6.1 cm) TFT Display",
+                "4 MB Storage",
+                "1450 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23769-160-1.jpg"
+        },
+        {
+            "price": "₹2,999",
+            "productName": "Lyf C459",
+            "releaseDate": "24 Jul, 2024",
+            "specifications": [
+                "Snapdragon 210 Quad core",
+                "5 MP Rear Camera",
+                "2 MP Front Camera",
+                "4.5″ (11.43 cm) TFT Display",
+                "1 GB RAM | 8 GB Storage",
+                "2000 mAh",
+                "Android v6.0.1 OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/13062-76-1.jpg"
+        },
+        {
+            "price": "₹999",
+            "productName": "Reliance Jio Bharat",
+            "releaseDate": "07 Jul, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.77″ (4.5 cm) TFT Display",
+                "512 MB RAM | 4 GB Storage",
+                "1000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23674-111-1.jpg"
+        },
+        {
+            "price": "₹3,149",
+            "productName": "Nokia 220 4G 2024",
+            "releaseDate": "10 Jun, 2024",
+            "specifications": [
+                "Unisoc",
+                "2.8″ (7.11 cm) LCD Display",
+                "64 MB RAM | 128 MB Storage",
+                "1450 mAh Battery",
+                "S30+ OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24640-134-1.jpg"
+        },
+        {
+            "price": "₹2,799",
+            "productName": "Reliance JioPhone Prima 2 4G",
+            "releaseDate": "09 Sep, 2024",
+            "specifications": [
+                "Snapdragon",
+                "0.3 MP Rear Camera",
+                "0.3 MP Front Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "512 MB RAM | 4 GB Storage",
+                "2000 mAh Battery",
+                "KAI OS OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/619109-181-1.jpg"
+        },
+        {
+            "price": "₹2,380",
+            "productName": "Snexian Rock Z",
+            "releaseDate": "11 Jan, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "32 MB RAM | 32 MB Storage",
+                "3000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24279-208-1.jpg"
+        },
+        {
+            "price": "₹1,799",
+            "productName": "Reliance Jio Bharat J1",
+            "releaseDate": "23 Jul, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2.8″ (7.11 cm) TFT Display",
+                "2500 mAh Battery",
+                "RTOS OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/619007-298-1.jpg"
+        },
+        {
+            "price": "₹3,999",
+            "productName": "Nokia 3210 2024",
+            "releaseDate": "10 Jun, 2024",
+            "specifications": [
+                "Unisoc",
+                "2 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "64 MB RAM | 128 MB Storage",
+                "1450 mAh Battery",
+                "S30+ OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24559-81-1.jpg"
+        },
+        {
+            "price": "₹749",
+            "productName": "VOX Mobile V10",
+            "releaseDate": "01 Jan, 1970",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "3.6″ (9.14 cm) LCD Display",
+                "105 KB Storage",
+                "800 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24115-208-1.jpg"
+        },
+        {
+            "price": "₹4,999",
+            "productName": "Nokia 3.1 Plus 32GB",
+            "releaseDate": "19 Oct, 2024",
+            "specifications": [
+                "MediaTek Helio P22 Tru-Octa Core",
+                "13+5 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.0″ (15.24 cm) IPS LCD Display",
+                "3 GB RAM | 32 GB Storage",
+                "3500 mAh",
+                "Android v8.1 OS",
+                "Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/15118-41-1.jpg"
+        },
+        {
+            "price": "₹1,799",
+            "productName": "Micromax X1i Flip",
+            "releaseDate": "22 Mar, 2024",
+            "specifications": [
+                "0.08 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "32 MB RAM | 32 MB Storage",
+                "1200 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24433-87-1.jpg"
+        },
+        {
+            "price": "₹2,599",
+            "productName": "Reliance JioPhone Prima 4G",
+            "releaseDate": "08 Nov, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "0.3 MP Front Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "512 MB RAM | 4 GB Storage",
+                "1800 mAh Battery",
+                "KAI OS OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23939-291-1.jpg"
+        },
+        {
+            "price": "₹3,745",
+            "productName": "Nokia 3310 New",
+            "releaseDate": "18 May, 2024",
+            "specifications": [
+                "2 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "16 MB Storage",
+                "1200 mAh | 4.9W Charging"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/19777-76-1.jpg"
+        },
+        {
+            "price": "₹1,700",
+            "productName": "Samsung Metro B313",
+            "releaseDate": "22 Jun, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2″ (5.08 cm) TFT Display",
+                "1000 mAh | 8.2W Charging"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/7587-183-1.jpg"
+        },
+        {
+            "price": "₹999",
+            "productName": "HMD 105",
+            "releaseDate": "11 Jun, 2024",
+            "specifications": [
+                "2.0″ (5.08 cm) TFT Display",
+                "4 MB RAM | 4 MB Storage",
+                "1000 mAh Battery",
+                "RTOS OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24647-149-1.jpg"
+        },
+        {
+            "price": "₹2,729",
+            "productName": "I Kall K333 4G",
+            "releaseDate": "21 Jun, 2024",
+            "specifications": [
+                "Quad core",
+                "2 MP Rear Camera",
+                "2 MP Front Camera",
+                "2.8″ (7.11 cm) TFT Display",
+                "2 GB RAM | 16 GB Storage",
+                "3000 mAh Battery",
+                "Android v12 OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23646-298-1.jpg"
+        },
+        {
+            "price": "₹1,399",
+            "productName": "Reliance Jio Bharat B2",
+            "releaseDate": "16 Jul, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "2000 mAh Battery",
+                "RTOS OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24722-273-1.jpg"
+        },
+        {
+            "price": "₹1,199",
+            "productName": "HMD 110",
+            "releaseDate": "11 Jun, 2024",
+            "specifications": [
+                "0.08 MP Rear Camera",
+                "2.0″ (5.08 cm) TFT Display",
+                "4 MB RAM | 4 MB Storage",
+                "1000 mAh Battery",
+                "RTOS OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24646-211-1.jpg"
+        },
+        {
+            "price": "₹2,960",
+            "productName": "Nokia 216 Dual SIM",
+            "releaseDate": "10 Nov, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "0.3 MP Front Camera",
+                "2.4″ (6.1 cm) LCD Display",
+                "16 MB RAM",
+                "1020 mAh | 4.9W"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/11366-204-1.jpg"
+        },
+        {
+            "price": "₹699",
+            "productName": "I Kall K31 New",
+            "releaseDate": "20 Aug, 2024",
+            "specifications": [
+                "1.8″ (4.57 cm) TFT Display",
+                "800 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/18818-247-1.jpg"
+        },
+        {
+            "price": "₹2,549",
+            "productName": "Nokia 150 2023",
+            "releaseDate": "10 Aug, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "4 MB Storage",
+                "1450 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23768-239-1.jpg"
+        },
+        {
+            "price": "₹2,249",
+            "productName": "Nokia 110 4G 2023",
+            "releaseDate": "04 Jul, 2024",
+            "specifications": [
+                "0.08 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "1450 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23515-263-1.jpg"
+        },
+        {
+            "price": "₹1,259",
+            "productName": "Samsung Guru Plus B110E",
+            "releaseDate": "22 Jun, 2024",
+            "specifications": [
+                "1.5″ (3.81 cm) TFT Display",
+                "800 mAh | 4.9W Charging"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/20533-288-1.jpg"
+        },
+        {
+            "price": "₹1,198",
+            "productName": "Nokia 105 2023",
+            "releaseDate": "19 May, 2024",
+            "specifications": [
+                "1.8″ (4.57 cm) TFT Display",
+                "1000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23517-32-1.jpg"
+        },
+        {
+            "price": "₹729",
+            "productName": "I Kall K34 2020",
+            "releaseDate": "09 Feb, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "800 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/17341-188-1.jpg"
+        },
+        {
+            "price": "₹999",
+            "productName": "Gfive C3 Ultra",
+            "releaseDate": "02 May, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "3000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22162-125-1.jpg"
+        },
+        {
+            "price": "₹890",
+            "productName": "MTR M1900",
+            "releaseDate": "21 Dec, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.77″ (4.5 cm) TFT Display",
+                "3000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23018-79-1.jpg"
+        },
+        {
+            "price": "₹999",
+            "productName": "Intex Neo V Plus FM",
+            "releaseDate": "13 Jul, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "60 KB Storage",
+                "1800 mAh | 1.5W Charging"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/20504-29-1.jpg"
+        },
+        {
+            "price": "₹799",
+            "productName": "Tork XS",
+            "releaseDate": "23 Aug, 2024",
+            "specifications": [
+                "1.3+1.2 MP Rear Camera",
+                "2.0″ (5.08 cm) TFT Display",
+                "1000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/18320-136-1.jpg"
+        },
+        {
+            "price": "₹850",
+            "productName": "Intex Eco i10",
+            "releaseDate": "30 Jul, 2024",
+            "specifications": [
+                "0.8 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "800 mAh | 2.96W Charging"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/14908-243-1.jpg"
+        },
+        {
+            "price": "₹2,399",
+            "productName": "Itel Magic X Pro",
+            "releaseDate": "09 Dec, 2024",
+            "specifications": [
+                "Unisoc Single core",
+                "0.3 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "64 MB RAM | 128 MB Storage",
+                "2500 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22999-1-1.jpg"
+        },
+        {
+            "price": "₹1,299",
+            "productName": "Reliance Jio Bharat B1",
+            "releaseDate": "13 Oct, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "2000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23903-211-1.jpg"
+        },
+        {
+            "price": "₹990",
+            "productName": "Micromax X389",
+            "releaseDate": "07 May, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.77″ (4.5 cm) TFT Display",
+                "1000 mAh"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/17543-32-1.jpg"
+        },
+        {
+            "price": "₹2,399",
+            "productName": "HMD 110 4G",
+            "releaseDate": "11 Sep, 2024",
+            "specifications": [
+                "Unisoc",
+                "0.08 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "64 MB RAM | 128 MB Storage",
+                "1450 mAh Battery",
+                "S30+ OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/619123-268-1.jpg"
+        },
+        {
+            "price": "₹990",
+            "productName": "Karbonn KX1i",
+            "releaseDate": "14 Jul, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "800 mAh"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/16568-283-1.jpg"
+        },
+        {
+            "price": "₹699",
+            "productName": "KXD M8",
+            "releaseDate": "01 Sep, 2024",
+            "specifications": [
+                "1.3 MP Rear Camera",
+                "1.77″ (4.5 cm) TFT Display",
+                "1000 mAh"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/16733-92-1.jpg"
+        },
+        {
+            "price": "₹2,400",
+            "productName": "Zopo Color C3",
+            "releaseDate": "10 Nov, 2024",
+            "specifications": [
+                "MediaTek Quad core",
+                "8 MP Rear Camera",
+                "5 MP Front Camera",
+                "5.0″ (12.7 cm) IPS LCD Display",
+                "2 GB RAM | 16 GB Storage",
+                "2100 mAh",
+                "Android v6.0 OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/19966-174-1.jpg"
+        },
+        {
+            "price": "₹3,450",
+            "productName": "Mobiistar C1 Lite",
+            "releaseDate": "01 Aug, 2024",
+            "specifications": [
+                "MediaTek Quad core",
+                "5 MP Rear Camera",
+                "5 MP Front Camera",
+                "5.34″ (13.56 cm) TFT Display",
+                "1 GB RAM | 8 GB Storage",
+                "2700 mAh",
+                "Android v8.1 OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/15112-125-1.jpg"
+        },
+        {
+            "price": "₹749",
+            "productName": "Gfive Rose 320",
+            "releaseDate": "06 Apr, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "32 MB RAM | 64 MB Storage",
+                "950 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23409-148-1.jpg"
+        },
+        {
+            "price": "₹700",
+            "productName": "M-Tech G33",
+            "releaseDate": "20 Sep, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "1000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/19050-177-1.jpg"
+        },
+        {
+            "price": "₹2,999",
+            "productName": "Ziox Quiq Wonder 4G",
+            "releaseDate": "11 Oct, 2024",
+            "specifications": [
+                "5 MP Rear Camera",
+                "2 MP Front Camera",
+                "5″ (12.7 cm) IPS LED Display",
+                "512 MB RAM | 8 GB Storage",
+                "2200 mAh",
+                "Android OS"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/19433-164-1.jpg"
+        },
+        {
+            "price": "₹674",
+            "productName": "I Kall K112",
+            "releaseDate": "15 Nov, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "2.4″ (6.1 cm) TFT Display",
+                "1000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/18722-191-1.jpg"
+        },
+        {
+            "price": "₹755",
+            "productName": "Mfone M1810",
+            "releaseDate": "29 Jul, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "1000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/20066-72-1.jpg"
+        },
+        {
+            "price": "₹799",
+            "productName": "I Kall K66 2021",
+            "releaseDate": "06 Dec, 2024",
+            "specifications": [
+                "0.3 MP Rear Camera",
+                "1.8″ (4.57 cm) TFT Display",
+                "1000 mAh Battery"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21433-288-1.jpg"
+        }
+    ],
+    "10000": [
+        {
+            "price": "₹12,999",
+            "productName": "Samsung Galaxy F14 5G",
+            "releaseDate": "30 Mar, 2024",
+            "specifications": [
+                "Samsung Exynos 1330 Octa core",
+                "50+2 MP Rear Camera",
+                "13 MP Front Camera",
+                "6.6″ (16.76 cm) 90Hz PLS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "6000 mAh | 25W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23319-105-1.jpg"
+        },
+        {
+            "price": "₹9,499",
+            "productName": "Xiaomi Redmi 12",
+            "releaseDate": "04 Aug, 2024",
+            "specifications": [
+                "MediaTek Helio G88 Octa core",
+                "50+8+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.79″ (17.25 cm) 90Hz IPS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21982-294-1.jpg"
+        },
+        {
+            "price": "₹8,999",
+            "productName": "realme C53",
+            "releaseDate": "19 Jul, 2024",
+            "specifications": [
+                "Unisoc Octa core",
+                "108 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.74″ (17.12 cm) 90Hz IPS LCD Display",
+                "6 GB RAM | 64 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23470-186-1.jpg"
+        },
+        {
+            "price": "₹10,999",
+            "productName": "POCO M6 Pro 5G 128GB",
+            "releaseDate": "09 Aug, 2024",
+            "specifications": [
+                "Snapdragon 4 Gen 2 Octa core",
+                "50+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.79″ (17.25 cm) 90Hz IPS LCD Display",
+                "6 GB RAM | 128 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23761-6-1.jpg"
+        },
+        {
+            "price": "₹6,999",
+            "productName": "POCO C65",
+            "releaseDate": "18 Dec, 2024",
+            "specifications": [
+                "MediaTek Helio G85 Octa core",
+                "50+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.74″ (17.12 cm) 90Hz IPS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23902-77-1.jpg"
+        },
+        {
+            "price": "₹9,150",
+            "productName": "POCO M6",
+            "releaseDate": "22 Dec, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6100 Plus Octa core",
+                "50+0.08 MP Rear Camera",
+                "5 MP Front Camera",
+                "6.74″ (17.12 cm) 90Hz IPS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22268-250-1.jpg"
+        },
+        {
+            "price": "₹8,945",
+            "productName": "Itel P55 5G",
+            "releaseDate": "04 Oct, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6080 Octa core",
+                "50+0.08 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.6″ (16.76 cm) 90Hz IPS LCD Display",
+                "4 GB RAM | 64 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23842-112-1.jpg"
+        },
+        {
+            "price": "₹6,599",
+            "productName": "POCO C61",
+            "releaseDate": "28 Mar, 2024",
+            "specifications": [
+                "MediaTek Helio G36 Octa core",
+                "8+2 MP Rear Camera",
+                "5 MP Front Camera",
+                "6.71″ (17.04 cm) 90Hz IPS LCD Display",
+                "4 GB RAM | 64 GB Storage",
+                "5000 mAh | 10W",
+                "Android v14 OS",
+                "Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24435-76-1.jpg"
+        },
+        {
+            "price": "₹9,999",
+            "productName": "Itel Color Pro 5G",
+            "releaseDate": "17 Jul, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6080 Octa core",
+                "50 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.6″ (16.76 cm) 90Hz IPS LCD Display",
+                "6 GB RAM | 128 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24735-20-1.jpg"
+        }
+    ],
+    "15000": [
+        {
+            "price": "₹15,919",
+            "productName": "Moto G64",
+            "releaseDate": "23 Apr, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7025 Octa core",
+                "50+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.5″ (16.51 cm) 120Hz IPS LCD Display",
+                "8 GB RAM | 128 GB Storage",
+                "6000 mAh | 33W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22814-18-1.jpg"
+        },
+        {
+            "price": "₹12,998",
+            "productName": "iQOO Z9x",
+            "releaseDate": "21 May, 2024",
+            "specifications": [
+                "Snapdragon 6 Gen 1 Octa core",
+                "50+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.72″ (17.07 cm) 120Hz LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "6000 mAh | 44W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22609-152-1.jpg"
+        },
+        {
+            "price": "₹13,999",
+            "productName": "Xiaomi Redmi 13 5G",
+            "releaseDate": "12 Jul, 2024",
+            "specifications": [
+                "Snapdragon 4 Gen 2 Octa core",
+                "108+2 MP Rear Camera",
+                "13 MP Front Camera",
+                "6.79″ (17.25 cm) 120Hz IPS LCD Display",
+                "6 GB RAM | 128 GB Storage",
+                "5030 mAh | 33W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24669-156-1.jpg"
+        },
+        {
+            "price": "₹13,449",
+            "productName": "vivo T3x",
+            "releaseDate": "24 Apr, 2024",
+            "specifications": [
+                "Snapdragon 6 Gen 1 Octa core",
+                "50+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.72″ (17.07 cm) 120Hz LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "6000 mAh | 44W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22813-108-1.jpg"
+        },
+        {
+            "price": "₹10,999",
+            "productName": "Moto G34",
+            "releaseDate": "17 Jan, 2024",
+            "specifications": [
+                "Snapdragon 695 Octa core",
+                "50+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.5″ (16.51 cm) 120Hz IPS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "5000 mAh | 20W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22806-98-1.jpg"
+        },
+        {
+            "price": "₹12,699",
+            "productName": "realme Narzo 70x 5G",
+            "releaseDate": "24 Apr, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6100 Plus Octa core",
+                "50+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.72″ (17.07 cm) 120Hz IPS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "5000 mAh | 45W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24492-186-1.jpg"
+        },
+        {
+            "price": "₹11,999",
+            "productName": "Xiaomi Redmi 12 5G",
+            "releaseDate": "04 Aug, 2024",
+            "specifications": [
+                "Snapdragon 4 Gen 2 Octa core",
+                "50+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.79″ (17.25 cm) 90Hz IPS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23729-276-1.jpg"
+        },
+        {
+            "price": "₹13,990",
+            "productName": "Itel S23 Plus",
+            "releaseDate": "06 Oct, 2024",
+            "specifications": [
+                "Unisoc Octa core",
+                "50 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.78″ (17.22 cm) 60Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 18W Fast Charging",
+                "Android v13 OS",
+                "Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23847-63-1.jpg"
+        },
+        {
+            "price": "₹14,998",
+            "productName": "Tecno Pova 5 Pro",
+            "releaseDate": "22 Aug, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6080 Octa core",
+                "50+0.08 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz IPS LCD Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 68W Fast Charging",
+                "Android v13 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23713-22-1.jpg"
+        },
+        {
+            "price": "₹11,498",
+            "productName": "realme Narzo N65 5G",
+            "releaseDate": "31 May, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6300 Octa core",
+                "50 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz IPS LCD Display",
+                "4 GB RAM | 128 GB Storage",
+                "5000 mAh | 15W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24602-299-1.jpg"
+        }
+    ],
+    "20000": [
+        {
+            "price": "₹19,998",
+            "productName": "iQOO Z9",
+            "releaseDate": "13 Mar, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7200 Octa core",
+                "50+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 44W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22608-52-1.jpg"
+        },
+        {
+            "price": "₹18,499",
+            "productName": "POCO X6 5G",
+            "releaseDate": "11 Jan, 2024",
+            "specifications": [
+                "Snapdragon 7s Gen 2 Octa core",
+                "64+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5100 mAh | 67W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22287-144-1.jpg"
+        },
+        {
+            "price": "₹15,939",
+            "productName": "CMF Phone 1",
+            "releaseDate": "12 Jul, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7300 Octa core",
+                "50+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz Super AMOLED Display",
+                "6 GB RAM | 128 GB Storage",
+                "5000 mAh | 33W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24641-118-1.jpg"
+        },
+        {
+            "price": "₹15,926",
+            "productName": "Xiaomi Redmi Note 13",
+            "releaseDate": "10 Jan, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6080 Octa core",
+                "108+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "6 GB RAM | 128 GB Storage",
+                "5000 mAh | 33W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22188-131-1.jpg"
+        },
+        {
+            "price": "₹17,338",
+            "productName": "Infinix Note 40 5G",
+            "releaseDate": "26 Jun, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7020 Octa core",
+                "108+2+2 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz Flexible AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 33W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24607-72-1.jpg"
+        },
+        {
+            "price": "₹18,099",
+            "productName": "realme P1 Pro 5G",
+            "releaseDate": "22 Apr, 2024",
+            "specifications": [
+                "Snapdragon 6 Gen 1 Octa core",
+                "50+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz OLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 45W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24482-249-1.jpg"
+        },
+        {
+            "price": "₹19,999",
+            "productName": "vivo T3",
+            "releaseDate": "27 Mar, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7200 Octa core",
+                "50+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 44W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21942-2-1.jpg"
+        },
+        {
+            "price": "₹19,999",
+            "productName": "OnePlus Nord CE 4 Lite 5G",
+            "releaseDate": "27 Jun, 2024",
+            "specifications": [
+                "Snapdragon 695 Octa core",
+                "50+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22227-197-1.jpg"
+        },
+        {
+            "price": "₹19,299",
+            "productName": "Moto G85",
+            "releaseDate": "16 Jul, 2024",
+            "specifications": [
+                "Snapdragon 6s Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz P-OLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 33W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24668-161-1.jpg"
+        },
+        {
+            "price": "₹17,999",
+            "productName": "OPPO A3 Pro",
+            "releaseDate": "21 Jun, 2024",
+            "specifications": [
+                "MediaTek Dimensity 6300 Octa core",
+                "50+2 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz LCD Display",
+                "8 GB RAM | 128 GB Storage",
+                "5100 mAh | 45W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23204-186-1.jpg"
+        }
+    ],
+    "25000": [
+        {
+            "price": "₹23,999",
+            "productName": "Nothing Phone 2a",
+            "releaseDate": "12 Mar, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7200 Pro Octa core",
+                "50+50 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz Flexible AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 45W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24190-268-1.jpg"
+        },
+        {
+            "price": "₹24,990",
+            "productName": "OnePlus Nord CE 4 5G",
+            "releaseDate": "04 Apr, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 100W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22732-172-1.jpg"
+        },
+        {
+            "price": "₹24,600",
+            "productName": "Motorola Edge 50 Fusion",
+            "releaseDate": "22 May, 2024",
+            "specifications": [
+                "Snapdragon 7s Gen 2 Octa core",
+                "50+13 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.67″ (16.94 cm) 144Hz P-OLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 68W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22788-189-1.jpg"
+        },
+        {
+            "price": "₹20,590",
+            "productName": "Honor X9B",
+            "releaseDate": "16 Feb, 2024",
+            "specifications": [
+                "Snapdragon 6 Gen 1 Octa core",
+                "108+5+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5800 mAh | 35W Fast Charging",
+                "Android v13 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23896-247-1.jpg"
+        },
+        {
+            "price": "₹21,199",
+            "productName": "realme 12 Pro",
+            "releaseDate": "29 Jan, 2024",
+            "specifications": [
+                "Snapdragon 6 Gen 1 Octa core",
+                "50+8+32 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 67W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23163-101-1.jpg"
+        },
+        {
+            "price": "₹20,999",
+            "productName": "Samsung Galaxy F55 5G",
+            "releaseDate": "27 May, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 1 Octa core",
+                "50+8+2 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz Super AMOLED Plus Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 45W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24510-120-1.jpg"
+        },
+        {
+            "price": "₹22,898",
+            "productName": "Samsung Galaxy A35 5G",
+            "releaseDate": "14 Mar, 2024",
+            "specifications": [
+                "Samsung Exynos 1380 Octa core",
+                "50+8+5 MP Rear Camera",
+                "13 MP Front Camera",
+                "6.6″ (16.76 cm) 120Hz Super AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 25W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21947-198-1.jpg"
+        },
+        {
+            "price": "₹23,000",
+            "productName": "Apple iPhone 12 Mini",
+            "releaseDate": "18 Oct, 2024",
+            "specifications": [
+                "Apple A14 Bionic Hexa Core",
+                "12+12 MP Rear Camera",
+                "12 MP Front Camera",
+                "5.4″ (13.72 cm) 60Hz Super Retina XDR Display",
+                "4 GB RAM | 64 GB Storage",
+                "2227 mAh | 20W Fast Charging",
+                "iOS v14 OS",
+                "5G | NFC"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/16851-169-1.jpg"
+        },
+        {
+            "price": "₹21,965",
+            "productName": "OPPO F25 Pro",
+            "releaseDate": "29 Feb, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7050 Octa core",
+                "64+8+2 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 67W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21926-263-1.jpg"
+        },
+        {
+            "price": "₹37,999",
+            "productName": "Honor 90",
+            "releaseDate": "18 Sep, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 1 Accelerated Edition Octa core",
+                "200+12+2 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 66W Fast Charging",
+                "Android v13 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23441-204-1.jpg"
+        }
+    ],
+    "30000": [
+        {
+            "price": "₹27,598",
+            "productName": "vivo V30",
+            "releaseDate": "07 Mar, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+50 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21272-45-1.jpg"
+        },
+        {
+            "price": "₹29,999",
+            "productName": "OnePlus Nord 4",
+            "releaseDate": "20 Jul, 2024",
+            "specifications": [
+                "Snapdragon 7 Plus Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.74″ (17.12 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 100W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21949-247-1.jpg"
+        },
+        {
+            "price": "₹24,990",
+            "productName": "OnePlus Nord CE 4 5G",
+            "releaseDate": "04 Apr, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 100W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22732-172-1.jpg"
+        },
+        {
+            "price": "₹28,599",
+            "productName": "POCO F6",
+            "releaseDate": "24 May, 2024",
+            "specifications": [
+                "Snapdragon 8s Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "20 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 90W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22794-209-1.jpg"
+        },
+        {
+            "price": "₹30,999",
+            "productName": "realme GT 6T",
+            "releaseDate": "28 May, 2024",
+            "specifications": [
+                "Snapdragon 7 Plus Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz LTPO AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 120W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24560-283-1.jpg"
+        },
+        {
+            "price": "₹27,900",
+            "productName": "Xiaomi Redmi Note 13 Pro Plus 5G",
+            "releaseDate": "10 Jan, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7200 Ultra Octa core",
+                "200+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 120W Fast Charging",
+                "Android v13 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21943-277-1.jpg"
+        },
+        {
+            "price": "₹34,999",
+            "productName": "Honor 200",
+            "releaseDate": "18 Jul, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+12+50 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5200 mAh | 100W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24621-276-1.jpg"
+        },
+        {
+            "price": "₹27,994",
+            "productName": "OPPO Reno11",
+            "releaseDate": "12 Jan, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7050 Octa core",
+                "50+8+32 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz Flexible AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 67W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23197-208-1.jpg"
+        },
+        {
+            "price": "₹24,799",
+            "productName": "vivo V29",
+            "releaseDate": "04 Oct, 2024",
+            "specifications": [
+                "Snapdragon 778G Octa core",
+                "50+8+2 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "4600 mAh | 80W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21307-230-1.jpg"
+        },
+        {
+            "price": "₹27,550",
+            "productName": "Motorola Edge 50 Fusion 256GB",
+            "releaseDate": "22 May, 2024",
+            "specifications": [
+                "Snapdragon 7s Gen 2 Octa core",
+                "50+13 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.67″ (16.94 cm) 144Hz P-OLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "5000 mAh | 68W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24583-274-1.jpg"
+        }
+    ],
+    "35000": [
+        {
+            "price": "₹34,560",
+            "productName": "vivo V40",
+            "releaseDate": "07 Aug, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+50 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24650-155-1.jpg"
+        },
+        {
+            "price": "₹31,999",
+            "productName": "vivo T3 Ultra",
+            "releaseDate": "19 Sep, 2024",
+            "specifications": [
+                "MediaTek Dimensity 9200 Plus Octa core",
+                "50+8 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/619103-60-1.jpg"
+        },
+        {
+            "price": "₹30,999",
+            "productName": "realme GT 6T",
+            "releaseDate": "28 May, 2024",
+            "specifications": [
+                "Snapdragon 7 Plus Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz LTPO AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5500 mAh | 120W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24560-283-1.jpg"
+        },
+        {
+            "price": "₹30,200",
+            "productName": "OPPO Reno12",
+            "releaseDate": "12 Jul, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7300 Energy Octa core",
+                "50+8+2 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz Flexible AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24489-91-1.jpg"
+        },
+        {
+            "price": "₹34,200",
+            "productName": "OPPO Reno12 Pro",
+            "releaseDate": "12 Jul, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7300 Energy Octa core",
+                "50+8+50 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz Flexible AMOLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "5000 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24488-245-1.jpg"
+        },
+        {
+            "price": "₹34,999",
+            "productName": "Honor 200",
+            "releaseDate": "18 Jul, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+12+50 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5200 mAh | 100W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24621-276-1.jpg"
+        },
+        {
+            "price": "₹33,686",
+            "productName": "vivo V29 Pro",
+            "releaseDate": "04 Oct, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8200 Octa core",
+                "50+8+12 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "4600 mAh | 80W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22684-234-1.jpg"
+        },
+        {
+            "price": "₹30,750",
+            "productName": "OPPO Reno11 Pro",
+            "releaseDate": "12 Jan, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8200 Octa core",
+                "50+8+32 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "4600 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23533-76-1.jpg"
+        },
+        {
+            "price": "₹30,800",
+            "productName": "vivo V27 Pro",
+            "releaseDate": "01 Mar, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8200 Octa core",
+                "50+8+2 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "4600 mAh | 66W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21980-103-1.jpg"
+        },
+        {
+            "price": "₹31,999",
+            "productName": "OPPO Reno8 Pro 5G",
+            "releaseDate": "19 Jul, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8100 Max Octa core",
+                "50+8+2 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "4500 mAh | 80W Fast Charging",
+                "Android v12 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21310-118-1.jpg"
+        },
+        {
+            "price": "₹34,198",
+            "productName": "Motorola Edge 50 Pro 5G 12GB RAM",
+            "releaseDate": "01 Apr, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+13+10 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.7″ (17.02 cm) 144Hz P-OLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "4500 mAh | 125W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24454-97-1.jpg"
+        },
+        {
+            "price": "₹32,999",
+            "productName": "OnePlus Nord 4 256GB",
+            "releaseDate": "20 Jul, 2024",
+            "specifications": [
+                "Snapdragon 7 Plus Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.74″ (17.12 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5500 mAh | 100W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24729-230-1.jpg"
+        },
+        {
+            "price": "₹34,999",
+            "productName": "OnePlus 10R 5G",
+            "releaseDate": "04 May, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8100 Max Octa core",
+                "50+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz Fluid AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 80W Fast Charging",
+                "Android v12 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21504-104-1.jpg"
+        },
+        {
+            "price": "₹33,999",
+            "productName": "vivo T3 Ultra 256GB",
+            "releaseDate": "19 Sep, 2024",
+            "specifications": [
+                "MediaTek Dimensity 9200 Plus Octa core",
+                "50+8 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5500 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/619121-52-1.jpg"
+        },
+        {
+            "price": "₹34,998",
+            "productName": "iQOO Neo 9 Pro 128GB",
+            "releaseDate": "21 Mar, 2024",
+            "specifications": [
+                "Snapdragon 8 Gen 2 Octa core",
+                "50+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.78″ (17.22 cm) 144Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5160 mAh | 120W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24423-276-1.jpg"
+        },
+        {
+            "price": "₹30,730",
+            "productName": "Apple iPhone SE 2022 (iPhone SE 3)",
+            "releaseDate": "11 Mar, 2024",
+            "specifications": [
+                "Apple A15 Bionic Hexa Core",
+                "12 MP Rear Camera",
+                "7 MP Front Camera",
+                "4.7″ (11.94 cm) IPS LCD Display",
+                "4 GB RAM | 64 GB Storage",
+                "2018 mAh | 20W Fast Charging",
+                "iOS v15 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21415-73-1.jpg"
+        },
+        {
+            "price": "₹30,399",
+            "productName": "Samsung Galaxy A73 5G",
+            "releaseDate": "08 Apr, 2024",
+            "specifications": [
+                "Snapdragon 778G Octa core",
+                "108+12+5+5 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz Super AMOLED Plus Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 25W Fast Charging",
+                "Android v12 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/18411-133-1.jpg"
+        },
+        {
+            "price": "₹31,385",
+            "productName": "iQOO Neo 7",
+            "releaseDate": "16 Feb, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8200 Octa core",
+                "64+2+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 120W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21302-33-1.jpg"
+        },
+        {
+            "price": "₹31,150",
+            "productName": "Xiaomi Redmi Note 12 Pro Plus 5G",
+            "releaseDate": "05 Jan, 2024",
+            "specifications": [
+                "MediaTek Dimensity 1080 Octa core",
+                "200+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "4980 mAh | 120W Fast Charging",
+                "Android v12 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21937-78-1.jpg"
+        },
+        {
+            "price": "₹30,999",
+            "productName": "Samsung Galaxy A52s 5G",
+            "releaseDate": "01 Sep, 2024",
+            "specifications": [
+                "Snapdragon 778G Octa core",
+                "64+12+5+5 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.5″ (16.51 cm) 120Hz Super AMOLED Display",
+                "6 GB RAM | 128 GB Storage",
+                "4500 mAh | 25W Fast Charging",
+                "Android v11 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/18164-27-1.jpg"
+        },
+        {
+            "price": "₹32,500",
+            "productName": "realme GT 2 Pro 5G",
+            "releaseDate": "14 Apr, 2024",
+            "specifications": [
+                "Snapdragon 8 Gen 1 Octa core",
+                "50+50+2 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "5000 mAh | 65W Fast Charging",
+                "Android v12 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21222-56-1.jpg"
+        },
+        {
+            "price": "₹34,999",
+            "productName": "POCO F6 512GB",
+            "releaseDate": "29 May, 2024",
+            "specifications": [
+                "Snapdragon 8s Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "20 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "12 GB RAM | 512 GB Storage",
+                "5000 mAh | 90W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24605-265-1.jpg"
+        },
+        {
+            "price": "₹32,999",
+            "productName": "realme GT 6T 256GB",
+            "releaseDate": "28 May, 2024",
+            "specifications": [
+                "Snapdragon 7 Plus Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz LTPO AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5500 mAh | 120W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24597-112-1.jpg"
+        },
+        {
+            "price": "₹32,801",
+            "productName": "realme 13 Pro Plus 512GB",
+            "releaseDate": "30 Jul, 2024",
+            "specifications": [
+                "Snapdragon 7s Gen 2 Octa core",
+                "50+8+50 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) 120Hz OLED Display",
+                "12 GB RAM | 512 GB Storage",
+                "5200 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/619029-209-1.jpg"
+        },
+        {
+            "price": "₹33,990",
+            "productName": "iQOO 9 SE",
+            "releaseDate": "02 Mar, 2024",
+            "specifications": [
+                "Snapdragon 888 Octa core",
+                "48+13+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.62″ (16.81 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "4500 mAh | 66W Fast Charging",
+                "Android v12 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21670-49-1.jpg"
+        },
+        {
+            "price": "₹32,990",
+            "productName": "Motorola Edge 30 Ultra 5G",
+            "releaseDate": "22 Sep, 2024",
+            "specifications": [
+                "Snapdragon 8 Plus Gen 1 Octa core",
+                "200+50+12 MP Rear Camera",
+                "60 MP Front Camera",
+                "6.67″ (16.94 cm) 144Hz P-OLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "4610 mAh | 125W Fast Charging",
+                "Android v12 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/21251-132-1.jpg"
+        },
+        {
+            "price": "₹31,999",
+            "productName": "Google Pixel 4A",
+            "releaseDate": "09 Oct, 2024",
+            "specifications": [
+                "Snapdragon 730G Octa core",
+                "12.2 MP Rear Camera",
+                "8 MP Front Camera",
+                "5.81″ (14.76 cm) 60Hz OLED Display",
+                "6 GB RAM | 128 GB Storage",
+                "3140 mAh | 18W Fast Charging",
+                "Android v10 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/16144-298-1.jpg"
+        },
+        {
+            "price": "₹32,999",
+            "productName": "POCO F6 12GB RAM",
+            "releaseDate": "24 May, 2024",
+            "specifications": [
+                "Snapdragon 8s Gen 3 Octa core",
+                "50+8 MP Rear Camera",
+                "20 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "5000 mAh | 90W Fast Charging",
+                "Android v14 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24604-42-1.jpg"
+        },
+        {
+            "price": "₹31,900",
+            "productName": "Samsung Galaxy C9 Pro",
+            "releaseDate": "20 Feb, 2024",
+            "specifications": [
+                "Snapdragon 653 Octa core",
+                "16 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.0″ (15.24 cm) Super AMOLED Display",
+                "6 GB RAM | 64 GB Storage",
+                "4000 mAh",
+                "Android v6.0 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/11937-228-1.jpg"
+        },
+        {
+            "price": "₹33,999",
+            "productName": "Samsung Galaxy S20",
+            "releaseDate": "15 Feb, 2024",
+            "specifications": [
+                "Samsung Exynos 9 Octa Octa core",
+                "12+64+12 MP Rear Camera",
+                "10 MP Front Camera",
+                "6.2″ (15.75 cm) 120Hz Dynamic AMOLED 2x Display",
+                "8 GB RAM | 128 GB Storage",
+                "4000 mAh | 25W Fast Charging",
+                "Android v10 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/16268-158-1.jpg"
+        },
+        {
+            "price": "₹31,999",
+            "productName": "Xiaomi Redmi Note 13 Pro Plus 5G 512GB",
+            "releaseDate": "10 Jan, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7200 Ultra Octa core",
+                "200+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 120Hz AMOLED Display",
+                "12 GB RAM | 512 GB Storage",
+                "5000 mAh | 120W Fast Charging",
+                "Android v13 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24264-281-1.jpg"
+        },
+        {
+            "price": "₹31,999",
+            "productName": "Huawei Mate 20 Pro",
+            "releaseDate": "03 Dec, 2024",
+            "specifications": [
+                "HiSilicon Kirin Octa core",
+                "40+20+8 MP Rear Camera",
+                "24 MP Front Camera",
+                "6.39″ (16.23 cm) OLED Display",
+                "6 GB RAM | 128 GB Storage",
+                "4200 mAh",
+                "Android v9.0 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/15136-96-1.jpg"
+        },
+        {
+            "price": "₹34,490",
+            "productName": "Samsung Galaxy A54 5G 256GB",
+            "releaseDate": "16 Mar, 2024",
+            "specifications": [
+                "Samsung Exynos 1380 Octa core",
+                "50+12+5 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.4″ (16.26 cm) 120Hz Super AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 25W Fast Charging",
+                "Android v13 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23341-97-1.jpg"
+        },
+        {
+            "price": "₹32,999",
+            "productName": "LG Wing",
+            "releaseDate": "09 Nov, 2024",
+            "specifications": [
+                "Snapdragon 765G Octa core",
+                "64+13+12 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.8″ (17.27 cm) 60Hz P-OLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "4000 mAh | 25W Fast Charging",
+                "Android v10 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/16800-253-1.jpg"
+        },
+        {
+            "price": "₹31,998",
+            "productName": "OnePlus 9 RT",
+            "releaseDate": "17 Feb, 2024",
+            "specifications": [
+                "Snapdragon 888 Octa core",
+                "50+16+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.62″ (16.81 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "4500 mAh | 65W Fast Charging",
+                "Android v11 OS",
+                "5G | NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/18302-87-1.jpg"
+        },
+        {
+            "price": "₹33,980",
+            "productName": "OnePlus 7 Pro",
+            "releaseDate": "16 May, 2024",
+            "specifications": [
+                "Snapdragon 855 Octa core",
+                "48+16+8 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.67″ (16.94 cm) 90Hz Fluid AMOLED Display",
+                "6 GB RAM | 128 GB Storage",
+                "4000 mAh",
+                "Android v9.0 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/15614-260-1.jpg"
+        },
+        {
+            "price": "₹32,950",
+            "productName": "vivo V30 256GB",
+            "releaseDate": "07 Mar, 2024",
+            "specifications": [
+                "Snapdragon 7 Gen 3 Octa core",
+                "50+50 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "5000 mAh | 80W Fast Charging",
+                "Android v14 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24395-264-1.jpg"
+        },
+        {
+            "price": "₹32,990",
+            "productName": "OnePlus 6T",
+            "releaseDate": "01 Nov, 2024",
+            "specifications": [
+                "Snapdragon 845 Octa core",
+                "16+20 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.41″ (16.28 cm) 60Hz Optic AMOLED Display",
+                "6 GB RAM | 128 GB Storage",
+                "3700 mAh",
+                "Android v9.0 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/14895-243-1.jpg"
+        },
+        {
+            "price": "₹33,000",
+            "productName": "Samsung Galaxy Note 8",
+            "releaseDate": "22 Sep, 2024",
+            "specifications": [
+                "Samsung Exynos 9 Octa Octa core",
+                "12+12 MP Rear Camera",
+                "8 MP Front Camera",
+                "6.3″ (16 cm) Super AMOLED Display",
+                "6 GB RAM | 64 GB Storage",
+                "3300 mAh | 15W Fast Charging",
+                "Android v7.1.1 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/11918-23-1.jpg"
+        },
+        {
+            "price": "₹31,999",
+            "productName": "Apple iPhone 6s 16GB",
+            "releaseDate": "16 Oct, 2024",
+            "specifications": [
+                "Apple A9 Dual core",
+                "12 MP Rear Camera",
+                "5 MP Front Camera",
+                "4.7″ (11.94 cm) IPS LCD Display",
+                "2 GB RAM | 16 GB Storage",
+                "1715 mAh",
+                "iOS v9 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/24080-192-1.jpg"
+        },
+        {
+            "price": "₹33,999",
+            "productName": "vivo V27 256GB",
+            "releaseDate": "17 Mar, 2024",
+            "specifications": [
+                "MediaTek Dimensity 7200 Octa core",
+                "50+8+2 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "4600 mAh | 66W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23256-36-1.jpg"
+        },
+        {
+            "price": "₹30,500",
+            "productName": "Samsung Galaxy A70s 8GB RAM",
+            "releaseDate": "04 Oct, 2024",
+            "specifications": [
+                "Snapdragon 675 Octa core",
+                "64+8+5 MP Rear Camera",
+                "32 MP Front Camera",
+                "6.7″ (17.02 cm) Super AMOLED Display",
+                "8 GB RAM | 128 GB Storage",
+                "4500 mAh | 25W Fast Charging",
+                "Android v9.0 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/16029-139-1.jpg"
+        },
+        {
+            "price": "₹34,900",
+            "productName": "Apple iPhone 7 128GB",
+            "releaseDate": "07 Oct, 2024",
+            "specifications": [
+                "Apple A10 Fusion Quad core",
+                "12 MP Rear Camera",
+                "7 MP Front Camera",
+                "4.7″ (11.94 cm) IPS LCD Display",
+                "2 GB RAM | 128 GB Storage",
+                "1960 mAh",
+                "iOS v10 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/11327-171-1.jpg"
+        },
+        {
+            "price": "₹30,889",
+            "productName": "Samsung Galaxy A8 Plus 2018",
+            "releaseDate": "20 Jan, 2024",
+            "specifications": [
+                "Samsung Exynos 7 Octa Octa core",
+                "16 MP Rear Camera",
+                "16+8 MP Front Camera",
+                "6″ (15.24 cm) Super AMOLED Display",
+                "6 GB RAM | 64 GB Storage",
+                "3500 mAh",
+                "Android v7.1.1 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/13824-183-1.jpg"
+        },
+        {
+            "price": "₹34,999",
+            "productName": "Xiaomi Redmi K50i 256GB",
+            "releaseDate": "23 Jul, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8100 Octa core",
+                "64+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.6″ (16.76 cm) 144Hz IPS LCD Display",
+                "8 GB RAM | 256 GB Storage",
+                "5080 mAh | 67W Fast Charging",
+                "Android v12 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/22499-95-1.jpg"
+        },
+        {
+            "price": "₹31,990",
+            "productName": "vivo V27 Pro 256GB",
+            "releaseDate": "01 Mar, 2024",
+            "specifications": [
+                "MediaTek Dimensity 8200 Octa core",
+                "50+8+2 MP Rear Camera",
+                "50 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "8 GB RAM | 256 GB Storage",
+                "4600 mAh | 66W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23258-205-1.jpg"
+        },
+        {
+            "price": "₹32,999",
+            "productName": "iQOO Neo 7 Pro 256GB",
+            "releaseDate": "04 Jul, 2024",
+            "specifications": [
+                "Snapdragon 8 Plus Gen 1 Octa core",
+                "50+8+2 MP Rear Camera",
+                "16 MP Front Camera",
+                "6.78″ (17.22 cm) 120Hz AMOLED Display",
+                "12 GB RAM | 256 GB Storage",
+                "5000 mAh | 120W Fast Charging",
+                "Android v13 OS",
+                "5G | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/23675-187-1.jpg"
+        },
+        {
+            "price": "₹31,500",
+            "productName": "Apple iPhone 7",
+            "releaseDate": "07 Oct, 2024",
+            "specifications": [
+                "Apple A10 Fusion Quad core",
+                "12 MP Rear Camera",
+                "7 MP Front Camera",
+                "4.7″ (11.94 cm) IPS LCD Display",
+                "2 GB RAM | 32 GB Storage",
+                "1960 mAh",
+                "iOS v10 OS",
+                "NFC | Fingerprint Sensor"
+            ],
+            "imageUrl": "https://assets.mspimages.in/c/tr:h-300,t-true/10208-57-1.jpg"
+        }
+    ]
+}
